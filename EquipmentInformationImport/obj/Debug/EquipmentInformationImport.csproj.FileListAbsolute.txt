@@ -1,0 +1,10 @@
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\bin\Debug\EquipmentInformationImport.exe.config
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\bin\Debug\EquipmentInformationImport.exe
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\bin\Debug\EquipmentInformationImport.pdb
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\obj\Debug\EquipmentInformationImport.csprojAssemblyReference.cache
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\obj\Debug\EquipmentInformationImport.Form1.resources
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\obj\Debug\EquipmentInformationImport.Properties.Resources.resources
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\obj\Debug\EquipmentInformationImport.csproj.GenerateResource.cache
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\obj\Debug\EquipmentInformationImport.exe
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\obj\Debug\EquipmentInformationImport.pdb
+C:\Users\s1109\source\repos\EquipmentInformationImport\EquipmentInformationImport\obj\Debug\EquipmentInformationImport.Form2.resources
